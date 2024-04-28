@@ -3,12 +3,18 @@
 
 ## Usage
 
-1. Install the required dependencies using pip:
+1. Download this repo to your local machine
+   ```
+   git clone https://github.com/KPCOFGS/Get_Github_Trending.git
+   cd Get_Github_Trending
+   ```
+   
+2. Install the required dependencies using pip:
    ```
    pip install -r requirements.txt
    ```
 
-2. Run the script:
+3. Run the script:
    ```
    python script.py
    ```

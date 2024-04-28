@@ -1,6 +1,5 @@
 # Get_Github_Trending
-
-# GitHub Trending Repositories Scraper
+**A script that gets GitHub Trending Repository**
 
 This Python script scrapes the trending repositories from GitHub and prints out their URLs.
 

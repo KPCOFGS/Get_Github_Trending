@@ -1,5 +1,5 @@
 # Get_Github_Trending
-**A script that gets GitHub Trending Repository**
+A script that gets GitHub Trending Repository URLs
 
 ## Usage
 
